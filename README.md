@@ -11,11 +11,11 @@ npm install
 ## Build
 
 - Build: `npm run build`
+- Build & watch: `npm run build:watch`
 - Clean: `npm run clean`
-- Build & watch: `npm run start`
 
 ## Run
 
 ```sh
-node src/Demo.bs.js
+node src/Demo.mjs
 ```
